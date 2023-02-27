@@ -396,7 +396,7 @@ namespace NotePad
             ////загружаем шрифт
             //this.Font = Properties.Settings.Default.FormFont;
             ////загружаем размеры окна
-            //this.Width = Properties.Settings.Default.FormWidth;
+            //this.Width = Properties.Settings.Default.FormWidth;//Не Получилось :(
             //this.Height = Properties.Settings.Default.FormHeight;
         }
 
